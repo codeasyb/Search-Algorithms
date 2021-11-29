@@ -57,7 +57,7 @@ Intro to Artificial Intelligence
   <tr>
     <td>4</td>
     <td>
-        This algorithm clculated h was given by the lowest value either going in y direction to the goal
+        This algorithm calculated h was given by the lowest value either going in y direction to the goal
         or x direction to the goal. <br>
         This heuristic is consistent because it was able to perform with lower cost as breath first search 
         on some environments. <br>
