@@ -29,9 +29,8 @@ Intro to Artificial Intelligence
         agent was not enclosed in a space where there is no possible way to reach the goal. <br> 
       	This algorithm is not OPTIMAL because of the cost the agent took to reach the 
         goal, and before discovering another path it had to first exhaust the current path 
-
     </td>
-    <td>Iterative deepening depth-first search </td>
+    <td>Iterative deepening depth-first search</td>
     <td>50 tasks</td>
   </tr>
   <tr>
