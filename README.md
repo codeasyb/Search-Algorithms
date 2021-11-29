@@ -10,12 +10,12 @@ Intro to Artificial Intelligence
     <th>Environments</th>
   </tr>
   <tr>
-    <td style="text-align:right">
+    <td><center>
         It’s completed because it was able to reach the goal on the given 50 environments where 
         the agent was not enclosed in a space where there is no possible way to reach the goal. <br>
         This algorithm is not <strong>optimal</strong> because of the cost the agent 
         took to reach the goal, and before discovering another path it had to first exhaust 
-        the current path 
+      the current path </center>
     </td>
     <td>Breath First Search</td>
     <td>50 tasks</td>
