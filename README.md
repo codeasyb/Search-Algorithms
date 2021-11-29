@@ -10,7 +10,7 @@ Intro to Artificial Intelligence
     <th>Environments</th>
   </tr>
   <tr>
-    <td style="text-align:center">
+    <td style="text-align: center;">
         It’s completed because it was able to reach the goal on the given 50 environments where 
         the agent was not enclosed in a space where there is no possible way to reach the goal. <br>
         This algorithm is not <strong>optimal</strong> because of the cost the agent 
