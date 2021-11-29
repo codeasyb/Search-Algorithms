@@ -13,7 +13,7 @@ Intro to Artificial Intelligence
     <td>
         It’s completed because it was able to reach the goal on the given 50 environments where 
         the agent was not enclosed in a space where there is no possible way to reach the goal. <br>
-        This algorithm is not ```optimal``` because of the cost the agent 
+      This algorithm is not <u>optimal</u> because of the cost the agent 
         took to reach the goal, and before discovering another path it had to first exhaust 
       the current path
     </td>
