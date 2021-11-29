@@ -11,12 +11,14 @@ Intro to Artificial Intelligence
   </tr>
   <tr>
     <td>
-        This algorithm is not optimal because when talking about the cost the agent 
+        It’s completed because it was able to reach the goal on the given 50 environments where 
+        the agent was not enclosed in a space where there is no possible way to reach the goal.  
+        This algorithm is not <strong>optimal</strong> because when talking about the cost the agent 
         took to reach the goal, because before discovering another path it has first to exhaust 
         the current path 
     </td>
     <td>Breath First Search</td>
-    <td>50</td>
+    <td>50 tasks</td>
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
